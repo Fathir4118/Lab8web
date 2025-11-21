@@ -1,7 +1,7 @@
 ```
-Nama:  Fathan Atallah Rasya Nugraha
-NIM:   312410425
-Kelas: TI.24.A3
+Nama:  Muhammad Fathir Nurcholis
+NIM:   312410287
+Kelas: TI.24.A.4
 ```
 
 # Tampilan Awal (Index.php)
